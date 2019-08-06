@@ -1,4 +1,3 @@
 Testing Git Merge
 Additional Line needs Merging.
-Another Developer just modified this.
-Master
+Another Developer just modified this from the Master code.
